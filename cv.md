@@ -1,5 +1,4 @@
 # Petina Darya
-**********************************
 ## Contacts
 
 * **Location** - Tambov, Russia
@@ -9,7 +8,7 @@
 ## About Me
 
 **********************************
-##Skills
+## Skills
 
 * HTML
 * CSS
@@ -30,4 +29,13 @@ function sumTwoSmallestNumbers(numbers) {
 ***********************************
 ## Work experience
 
+11 years in web, work in SEO-company
 ***********************************
+## Education
+
+* **University** - Tambov State Technical University, Tambov
+    + Faculty of Information Technology, Computer-Aided Design Systems
+* **Courses** - [Aptech](http://aptech-russia.com/)
+***********************************
+## English
+A2
