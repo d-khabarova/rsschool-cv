@@ -7,13 +7,13 @@
 * **Telegram** - @khabarova
 * **Discord** - Darya Petina#2762
 
-**********************************
+====
 
 ## About Me
 
 I know the basics and I want to develop
 
-**********************************
+====
 
 ## Skills
 
@@ -23,7 +23,7 @@ I know the basics and I want to develop
 * PHP
 * MYSQL
 
-**********************************
+====
 
 ## Code Example
 
@@ -36,13 +36,13 @@ function sumTwoSmallestNumbers(numbers) {
 }
 ```
 
-***********************************
+====
 
 ## Work experience
 
 11 years in web, work in SEO-company
 
-***********************************
+====
 
 ## Education
 
@@ -50,10 +50,10 @@ function sumTwoSmallestNumbers(numbers) {
     + Faculty of Information Technology, Computer-Aided Design Systems
 * **Courses** - [Aptech](http://aptech-russia.com/)
 
-***********************************
+====
 
 ## English
 
 A2
 
-***********************************
+====
