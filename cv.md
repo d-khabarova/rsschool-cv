@@ -7,6 +7,7 @@
 * **Discord** - Darya Petina#2762
 **********************************
 ## About Me
+
 I know the basics and I want to develop
 **********************************
 ## Skills
