@@ -49,7 +49,7 @@ function sumTwoSmallestNumbers(numbers) {
 * **University** - Tambov State Technical University, Tambov
     + Faculty of Information Technology, Computer-Aided Design Systems
 * **Courses** - [Aptech](http://aptech-russia.com/)
-*
+
 ***********************************
 
 ## English
