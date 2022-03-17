@@ -4,9 +4,10 @@
 * **Location** - Tambov, Russia
 * **Email** - darya.khabarova@gmail.com
 * **Telegram** - @khabarova
+* **Discord** - Darya Petina#2762
 **********************************
 ## About Me
-
+I know the basics and I want to develop
 **********************************
 ## Skills
 
