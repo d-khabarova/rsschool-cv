@@ -1,0 +1,13 @@
+body {
+    margin: 50px;
+    background: linear-gradient(0, #0085b0, transparent);
+}
+div.content{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+div.content img{
+    width: 250px;
+    margin-right: 20px;
+    float: left;
+}
