@@ -15,6 +15,15 @@ div.content img{
     float: left;
     border-radius: 5px;
 }
-a{
+div.content a{
     color: #fff;
+}
+div.content ul {
+    margin: 0;
+    padding: 0;
+}
+div.content li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
